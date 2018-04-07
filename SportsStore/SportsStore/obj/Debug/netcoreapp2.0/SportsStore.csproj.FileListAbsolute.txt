@@ -1,0 +1,11 @@
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\fnkta\Documents\107023\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
